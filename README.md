@@ -13,7 +13,7 @@ A fast, clean reconnaissance framework for **bug bounty hunters & security resea
 - Clean, noise-free output
 
 
-![Tools](Example.png)
+![Tools](Screenshot.png)
 
 
 ## Usage
