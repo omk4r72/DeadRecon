@@ -18,6 +18,6 @@ A fast, clean reconnaissance framework for **bug bounty hunters & security resea
 
 ## Usage
 ```bash
-chmod +x recon.sh
-./recon.sh example.com
-./recon.sh example.com 100
+chmod +x Recon.sh
+./Recon.sh example.com
+./Recon.sh example.com 200
